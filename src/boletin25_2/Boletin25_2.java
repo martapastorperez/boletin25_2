@@ -5,6 +5,8 @@
  */
 package boletin25_2;
 
+import java.time.LocalTime;
+
 /**
  *
  * @author mpastorperez
@@ -17,6 +19,7 @@ public class Boletin25_2 {
     public static void main(String[] args) {
         Circulos cir=new Circulos();
         cir.setVisible(true);
+       
     }
     
 }
